@@ -1,0 +1,38 @@
+<nav class="navbar">
+
+    <div>
+
+        Sistema Productos
+
+    </div>
+
+    <div>
+
+        Bienvenido:
+        ${sessionScope.usuario.nombre}
+
+    </div>
+
+    <div>
+
+        <a href="${pageContext.request.contextPath}/productos">
+
+            Productos
+
+        </a>
+
+        <a href="${pageContext.request.contextPath}/carrito">
+
+            Carrito
+
+        </a>
+
+        <a href="${pageContext.request.contextPath}/logout">
+
+            Cerrar Sesión
+
+        </a>
+
+    </div>
+
+</nav>

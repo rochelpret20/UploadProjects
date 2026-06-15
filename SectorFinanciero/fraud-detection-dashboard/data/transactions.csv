@@ -1,0 +1,16 @@
+transaction_id,customer_id,amount,country,hour,status
+1,C001,120,Peru,10,Approved
+2,C002,15000,Peru,23,Approved
+3,C003,80,Chile,14,Approved
+4,C001,25000,Peru,2,Approved
+5,C004,90,Peru,11,Approved
+6,C005,35000,USA,3,Approved
+7,C002,200,Peru,9,Approved
+8,C006,50000,Brazil,1,Approved
+9,C007,300,Peru,12,Approved
+10,C008,70000,Mexico,4,Approved
+11,C001,150,Peru,13,Approved
+12,C009,18000,USA,22,Approved
+13,C010,100,Peru,15,Approved
+14,C011,90000,Spain,0,Approved
+15,C012,220,Peru,16,Approved

@@ -1,0 +1,3 @@
+Financial Fraud Detection System
+
+Developed an anomaly-based fraud detection platform using Python, Pandas, Scikit-Learn and Streamlit. Implemented Isolation Forest algorithms to identify suspicious financial transactions based on transaction amount, frequency, customer profile and activity patterns. Built interactive dashboards for fraud monitoring and financial risk analysis, simulating real-world banking fraud detection workflows.

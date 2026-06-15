@@ -1,0 +1,5 @@
+192.168.1.10 GET /
+192.168.1.10 GET /home
+192.168.1.20 GET /login
+192.168.1.10 GET /admin
+192.168.1.20 GET /products
