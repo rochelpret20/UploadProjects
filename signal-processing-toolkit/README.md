@@ -1,0 +1,1 @@
+Developed MATLAB-based signal processing tools for spectral analysis, FFT computation and digital filtering. Implemented Butterworth filters and evaluated signal quality improvements using SNR metrics.
